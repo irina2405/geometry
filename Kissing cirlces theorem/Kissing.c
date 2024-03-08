@@ -10,7 +10,7 @@ int main() {
     printf("Kissing Circles Theorem\n");
 
 ///Set initial datas
-    int n = 5,
+    int n = 7,
         x = -1,
         y = 1;
 
